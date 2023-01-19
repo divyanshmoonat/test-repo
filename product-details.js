@@ -15,5 +15,5 @@ const cartItem = [
   },
 ];
 localStorage.setItem("cart", cartItem);
-
+sourabh
 localStorage.getItem("cart");
